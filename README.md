@@ -3,10 +3,6 @@
 > Студент **МГТУ им. Н.Э. Баумана**   
 > 📍 Москва, Россия
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GoooooPooooo)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/goshik_43)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:goshapolovnikov@yandex.ru)
-
 ---
 
 ## 🔭 О себе
@@ -55,8 +51,8 @@
 
 ## 🌱 Сейчас изучаю и развиваю
 
-- [ ] Продвинутые паттерны в **Rust** для embedded-систем
-- [ ] Оптимизацию ML-моделей для edge-устройств (TensorFlow Lite, ONNX)
+> 🔹 Продвинутые паттерны в **Rust** для embedded-систем
+> 🔹 Оптимизацию ML-моделей для edge-устройств (TensorFlow Lite, ONNX)
 
 ---
 
