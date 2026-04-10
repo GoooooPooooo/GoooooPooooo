@@ -1,6 +1,6 @@
 # 👋 Привет, я Игорь Половников!
 
-> Студент **МГТУ им. Н.Э. Баумана** (группа ИУ5Ц-21М)  
+> Студент **МГТУ им. Н.Э. Баумана**   
 > 📍 Москва, Россия
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GoooooPooooo)
@@ -17,7 +17,7 @@
 
 | Категория | Технологии |
 |-----------|-----------|
-| **Языки** | 🐍 Python, 🦀 Rust, 🟦 TypeScript, 🟨 C/C++, 🟧 MicroPython |
+| **Языки** | 🐍 Python, 🦀 Rust, 🟦 TypeScript, 🟨 C/C++ |
 | **Embedded** | ESP32, Arduino, Raspberry Pi, MQTT, UART/RS-232, IoT  |
 | **Web/Backend** | Django, Tauri, React, ONNX Runtime, REST API |
 | **Data/ML** | Computer Vision, ResNet, NumPy, Pillow, SQL (MS SQL) |
@@ -70,9 +70,3 @@
 
 > *"Код должен не только работать — он должен решать реальные задачи."* ✨
 
-<details>
-<summary>📊 GitHub Stats</summary>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=GoooooPooooo&show_icons=true&theme=github_dark&hide_border=true" alt="Igor's GitHub stats" width="48%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoooooPooooo&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" width="48%">
-</details>
